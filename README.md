@@ -7,4 +7,4 @@ You will need the GSL library. The code should be error-free, and you can compil
  gcc -Wall -O3 -mtune=corei7 -march=native -DNDEBUG clambdakplusbeta.cpp -lm -lgsl -lgslcblas
 
 and  run it as 
-./a.out <sample size>  <c parameter>
+./a.out (sample size)  (c parameter)
