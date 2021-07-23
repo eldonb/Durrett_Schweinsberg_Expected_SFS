@@ -9,3 +9,6 @@ You will need the GSL library. The code should be error-free, and you can compil
 
 and  run it as 
 ./a.out (sample size)  (c parameter)
+# An example comparison to data for a single chromosome from Atlantic cod
+
+![dsgraph_1](https://user-images.githubusercontent.com/9293736/126798127-917603f5-8592-4cda-a638-84a75bdf1e77.png)
